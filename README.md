@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Jivesh Goel.
 - 👀 I’m interested in Software Development and Designing.
 - 🌱 I’m currently learning HTML, CSS, Javascript & Python.
-- <!---
-- 💞️ I’m looking to collaborate on ... 
-- --->
-- 
 - 📫 You can reach me through my mail - jiveshgoel010@gmail.com
 
 <!---
