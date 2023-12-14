@@ -63,9 +63,10 @@
 
 
 ## Github Stats  
-<div align="center">
-![Jivesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiveshgoel010&show_icons=true)
-</div>
+<p align="center">
+  <img alt="Jivesh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jiveshgoel010&show_icons=true">
+</p>
+
 <br/>  
 
   
