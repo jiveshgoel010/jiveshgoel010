@@ -63,8 +63,7 @@
 
 
 ## Github Stats  
-![Jivesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiveshgoel010&show_icons=true&theme=radical)
-
+![Jivesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiveshgoel010&show_icons=true&theme=dark)
 <br/>  
 
   
