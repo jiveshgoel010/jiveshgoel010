@@ -1,4 +1,4 @@
-![Nothing]([http://url/to/img.png](https://github.com/jiveshgoel010/jiveshgoel010/blob/main/header.png))
+![Nothing](https://github.com/jiveshgoel010/jiveshgoel010/blob/main/header.png)
 
 - 👋 Hi, I’m Jivesh Goel.
 - 👀 I’m interested in Software Development and Designing.
