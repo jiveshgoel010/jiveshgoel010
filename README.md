@@ -63,7 +63,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jiveshgoel010&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiveshgoel010&show_icons=true&theme=transparent)" align="center" /></div>  
 
 <br/>  
 
